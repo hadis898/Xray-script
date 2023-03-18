@@ -7,6 +7,6 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/hadis898/Xray-s
 ```
 Xray 一键安装脚本，带其他脚本
 ```shell
-wget -N --no-check-certificate https://raw.githubusercontent.com/hadis898/Xray-script/main/xray0.sh && bash xray.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/hadis898/Xray-script/main/xray0.sh && bash xray0.sh
 ```
 
