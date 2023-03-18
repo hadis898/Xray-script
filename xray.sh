@@ -7,7 +7,7 @@ BLUE="\033[36m"     # Info message
 PLAIN='\033[0m'
 
 # 以下网站是随机从Google上找到的无广告小说网站，不喜欢请改成其他网址，以http或https开头
-# 搭建好后无法打开伪装域名，可能是反代小说网站挂了，请在网站留言，或者Github发issue，以便替换新的网站
+# 搭建好后无法打开伪装域名，可能是反代小说网站挂了，请在网站留言，或者Github发issue，以便替换新网站
 SITES=(
     http://www.zhuizishu.com/
     http://xs.56dyc.com/
